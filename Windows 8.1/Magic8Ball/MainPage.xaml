@@ -18,6 +18,9 @@
         <Button Content="Ask" HorizontalAlignment="Left" Margin="605,641,0,0" VerticalAlignment="Top" Click="Button_Click" Height="66" Width="120" FontSize="36"/>
         <TextBox x:Name="question" HorizontalAlignment="Left" Margin="355,491,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="24" Width="673"/>
         <TextBlock HorizontalAlignment="Left" Margin="487,74,0,0" TextWrapping="Wrap" Text="Magic 8 Ball" VerticalAlignment="Top" FontSize="72"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="333,60,0,0" VerticalAlignment="Top" Width="100" Source="Assets/8Ball.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="960,60,0,0" VerticalAlignment="Top" Width="100" Source="Assets/8Ball.png"/>
 
     </Grid>
 </Page>
+   

@@ -12,6 +12,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
+
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
 namespace Magic8Ball
@@ -23,7 +24,15 @@ namespace Magic8Ball
     {
         public MainPage()
         {
+            
+            
+            
+            
+            
+            
             this.InitializeComponent();
+            
+            
         }
 
         /// <summary>
@@ -48,7 +57,7 @@ namespace Magic8Ball
             else
             {
 
-
+                    
                 string[] responses = { "It is certain", "It is decidedly so", "Without a doubt", "Yes", "Nahhhh",
                                      "No way", "You serious!?", "Yes you may rely on it", "Outlook good", "Ask again later", "Cannot predict now",
                                  "That could work"};
