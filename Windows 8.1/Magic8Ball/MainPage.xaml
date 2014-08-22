@@ -11,7 +11,7 @@
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="Black"/>
-                <GradientStop Color="#FFE4B6B6" Offset="1"/>
+                <GradientStop Color="#FFB6D3E4" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
         <TextBlock x:Name="Response" HorizontalAlignment="Center" Margin="355,304,31,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="48" Width="980"/>
@@ -20,6 +20,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="487,74,0,0" TextWrapping="Wrap" Text="Magic 8 Ball" VerticalAlignment="Top" FontSize="72"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="333,60,0,0" VerticalAlignment="Top" Width="100" Source="Assets/8Ball.png"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="960,60,0,0" VerticalAlignment="Top" Width="100" Source="Assets/8Ball.png"/>
+        <Button Content="About" HorizontalAlignment="Left" Margin="1113,641,0,0" VerticalAlignment="Top" FontSize="36" Click="Button_Click_1"/>
 
     </Grid>
 </Page>
