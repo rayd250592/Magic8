@@ -11,7 +11,7 @@
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="Black"/>
-                <GradientStop Color="#FFB6D3E4" Offset="1"/>
+                <GradientStop Color="#FFA6917C" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
         <TextBlock x:Name="Response" HorizontalAlignment="Center" Margin="355,304,31,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="48" Width="980"/>
